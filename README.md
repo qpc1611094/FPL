@@ -14,11 +14,11 @@ Many thanks for their great work.
 ![](framework_v8.jpg)
 
 ## Installation
-Please refer to the [Installation](.doc/installation.md) document.
+Please refer to the [Installation](./doc/installation.md) document.
 
 
 ## Getting Started
-Please refer to the [Getting Started](.doc/getting_started.md) document.
+Please refer to the [Getting Started](./doc/getting_started.md) document.
 
 ## Citation
 Please consider citing this project in your publications if it helps your research.
