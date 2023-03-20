@@ -49,7 +49,7 @@ C.link_val_log_file = C.log_dir + '/val_last.log'
 C.dataset_path = 'FPL/DATA/pascal_voc'
 C.img_root_folder = C.dataset_path
 C.gt_root_folder = C.dataset_path
-C.pretrained_model = C.volna + 'pytorch-weight/resnet101_v1c.pth'
+C.pretrained_model = 'FPL/DATA/pytorch-weight/resnet101_v1c.pth'
 
 """ Path Config """
 def add_path(path):
@@ -92,7 +92,7 @@ if os.getenv('threshold'):
     C.threshold = float(os.environ['threshold'])
 else:
     C.threshold = 0.9
-    
+
 if os.getenv('weight'):
     C.weight = os.environ['weight']
 else:
