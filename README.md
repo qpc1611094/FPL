@@ -2,7 +2,7 @@
 ---
 [Fuzzy Positive Learning for Semi-supervised Semantic Segmentation (CVPR2023)](https://arxiv.org/pdf/2210.08519.pdf).
 
-by Pengchong Qiao, Zhidan Wei, Yu Wang, Zhennan Wang, Guoli Sone, Fan Xu, Xiangyang Ji, Chang Liu, [Jie Chen](https://aimia-pku.github.io)
+by Pengchong Qiao, Zhidan Wei, Yu Wang, Zhennan Wang, Guoli Song, Fan Xu, Xiangyang Ji, Chang Liu, [Jie Chen](https://aimia-pku.github.io)
 
 <sup>1</sup> School of Electronic and Computer Engineering, Peking University, <sup>2</sup> Peng Cheng Laboratory,
 <sup>3</sup> Department of Automation and BNRist, Tsinghua University
