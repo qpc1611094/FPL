@@ -24,9 +24,10 @@ Please refer to the [Getting Started](./doc/getting_started.md) document.
 Please consider citing this project in your publications if it helps your research.
 ```bibtex
 @inproceedings{qiao2023fuzzy,
-  title={Fuzzy Positive Learning for Semi-supervised Semantic Segmentation},
+  title={Fuzzy Positive Learning for Semi-Supervised Semantic Segmentation},
   author={Qiao, Pengchong and Wei, Zhidan and Wang, Yu and Wang, Zhennan and Song, Guoli and Xu, Fan and Ji, Xiangyang and Liu, Chang and Chen, Jie},
-  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={15465--15474},
   year={2023}
 }
 ```
